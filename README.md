@@ -13,6 +13,6 @@
 4. Елизавета Максимова - [MoguTDA](mogutda) / [Dionysus](dionysus)
 5. Николай Канатов - [Dyneusr](dyneusr)
 6. Ксения Горская - [Knotter](knotter)
-7. Екатерина Кузнецова - [R-TDA](rtda-javaplex) / [JavaPLEX](javaplex)
+7. Екатерина Кузнецова - [R-TDA](rtda-javaplex) / [JavaPLEX](rtda-javaplex)
 8.  Александр Ляшук - [sklearn-tda](sklearn-tda)
 9. Татьяна Щеглетова - [Обзор взаимодействий между стандартной библиотекой sklearn и библиотеками ripser и persim для топологического анализа данных на конкретных примерах](analysis)
