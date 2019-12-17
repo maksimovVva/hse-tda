@@ -10,7 +10,7 @@
 1. Кирилл Молчанов - [scikit-tda/scikit-tda](scikit-tda)
 2. Андрей Игошин - [scikit-tda/kepler-mapper](kepler-mapper)
 3. Никита Коробков - [GUDHI](gudhi)
-4. Елизавета Максимова - [MoguTDA and Dionysus](mogutda_&_dionysus)
+4. Елизавета Масленникова - [MoguTDA and Dionysus](mogutda_&_dionysus)
 5. Николай Канатов - [Dyneusr](dyneusr)
 6. Ксения Горская - [Knotter](knotter)
 7. Екатерина Кузнецова - [R-TDA](rtda-javaplex) / [JavaPLEX](rtda-javaplex)
